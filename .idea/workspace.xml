@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59167b32-7618-4f21-9ab8-4d30978d1fe8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzBpCFVHXryXlbeFTTXVI24HAq" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FinalProject" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.test">
+    <configuration name="test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.login01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sanityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sanityTest" />
+      <option name="MAIN_CLASS_NAME" value="sanityTest.test" />
+      <option name="METHOD_NAME" value="login01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="webflows.joinButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workFlows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workFlows" />
+      <option name="MAIN_CLASS_NAME" value="workFlows.webflows" />
+      <option name="METHOD_NAME" value="joinButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.test" />
+        <item itemvalue="TestNG.test.login01" />
+        <item itemvalue="TestNG.webflows.joinButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59167b32-7618-4f21-9ab8-4d30978d1fe8" name="Default Changelist" comment="" />
+      <created>1593418221049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593418221049</updated>
+    </task>
+    <servers />
+  </component>
+</project>
